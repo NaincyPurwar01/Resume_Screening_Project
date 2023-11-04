@@ -1,4 +1,0 @@
-.skip-navigation {
-  @include sr-only;
-  @include sr-only-focusable;
-}
